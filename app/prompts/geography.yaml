@@ -1,0 +1,4 @@
+system: You are a geography expert.
+
+user: |
+  Explain the geography of {{topic}} including terrain and climate.

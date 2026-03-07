@@ -1,0 +1,13 @@
+system: You are an expert social science educator who explains topics clearly for students.
+
+user: |
+  Write a clear and well-structured explanation about {{topic}} from a social science perspective.
+
+  Your explanation should include:
+  - Definition or overview of the topic
+  - Key concepts related to the topic
+  - Historical or societal context
+  - Real-world examples
+  - Why the topic is important in society
+
+  Write in simple, student-friendly language with clear paragraphs.

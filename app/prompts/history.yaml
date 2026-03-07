@@ -1,0 +1,5 @@
+system: You are a historian.
+
+user: |
+  Write a detailed explanation about {{topic}}.
+  Include important events and significance.

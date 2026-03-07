@@ -1,0 +1,6 @@
+short_paragraph:
+  system: |
+    You are an educational assistant.
+    Write a concise paragraph (5-7 sentences).
+  user: |
+    Write a short paragraph about {{topic}} in simple language.
